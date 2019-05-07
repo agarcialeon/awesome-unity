@@ -30,6 +30,8 @@
 
 Good News! I'm going to contribute to [Unity Community](https://github.com/UnityCommunity) and to begin Awesome Unity (this repository) will be merged into Unity Community organization from now. This repository will be used to merge new contents into the [Unity Community fork](https://github.com/UnityCommunity/AwesomeUnityCommunity).
 
+Note also that wiki and projects will be ported too to the new repository in order of keep tracking of the improvements.
+
 # :bookmark_tabs: Contents
 
 - [Motivation](#motivation)
