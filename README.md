@@ -2028,6 +2028,7 @@ screen.
 * [Unity.ProceduralContentGeneration Terrain](https://github.com/ErikMoczi/Unity.ProceduralContentGeneration-Terrain) - (#TERRAIN)
 * [Procedural Level Generator Unity](https://github.com/OndrejNepozitek/ProceduralLevelGenerator-Unity) - Unity plugin from procedural dungeon generation.
 * [LSystemsInUnity](https://github.com/pboechat/LSystemsInUnity) - L-System is a rewriting system used mainly to model the development of plants. L-Systems in Unity enables you to rapidly create plants in your Unity games.
+* [ProceduralTerrain](https://github.com/marcelochaves95/ProceduralTerrain "") - Procedural terrain tool for Unity.
 
 ## :sunrise_over_mountains: Terrain <a name="terrain"></a>
 
